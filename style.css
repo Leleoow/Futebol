@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+h1 {
+    color: rgb(218, 5, 5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h3 {
+    color: black;
+    font-size: 40px;
+}
+.nomeVisitante{
+    color: rgb(61, 61, 61);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.botao {
+    height: 30px;
+    width: 200px;
+    background-color: darkred;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.botao:hover{
+    background-color: black;
+    color: aliceblue;
+}
